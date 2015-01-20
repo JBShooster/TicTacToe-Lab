@@ -69,7 +69,3 @@ window.addEventListener("load", function(){
 	}
 	begin.addEventListener("click", startGame);
 });	
-
-
-
-
